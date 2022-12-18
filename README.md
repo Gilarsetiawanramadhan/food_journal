@@ -1,2 +1,2 @@
 # food_journal
-website mengenai resep makanan MALUKU UTARA
+resep makanan daerah MALUKU UTARA
